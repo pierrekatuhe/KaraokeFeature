@@ -1,0 +1,13 @@
+D:\Documents\Project\Project Karaoke\KaraokeFeature\KaraokeFeature\bin\Debug\KaraokeFeature.exe.config
+D:\Documents\Project\Project Karaoke\KaraokeFeature\KaraokeFeature\bin\Debug\KaraokeFeature.exe
+D:\Documents\Project\Project Karaoke\KaraokeFeature\KaraokeFeature\bin\Debug\KaraokeFeature.pdb
+D:\Documents\Project\Project Karaoke\KaraokeFeature\KaraokeFeature\bin\Debug\KaraokeFeature.xml
+D:\Documents\Project\Project Karaoke\KaraokeFeature\KaraokeFeature\obj\Debug\KaraokeFeature.vbprojAssemblyReference.cache
+D:\Documents\Project\Project Karaoke\KaraokeFeature\KaraokeFeature\obj\Debug\KaraokeFeature.Form1.resources
+D:\Documents\Project\Project Karaoke\KaraokeFeature\KaraokeFeature\obj\Debug\KaraokeFeature.Form2.resources
+D:\Documents\Project\Project Karaoke\KaraokeFeature\KaraokeFeature\obj\Debug\KaraokeFeature.Resources.resources
+D:\Documents\Project\Project Karaoke\KaraokeFeature\KaraokeFeature\obj\Debug\KaraokeFeature.vbproj.GenerateResource.cache
+D:\Documents\Project\Project Karaoke\KaraokeFeature\KaraokeFeature\obj\Debug\KaraokeFeature.vbproj.CoreCompileInputs.cache
+D:\Documents\Project\Project Karaoke\KaraokeFeature\KaraokeFeature\obj\Debug\KaraokeFeature.exe
+D:\Documents\Project\Project Karaoke\KaraokeFeature\KaraokeFeature\obj\Debug\KaraokeFeature.xml
+D:\Documents\Project\Project Karaoke\KaraokeFeature\KaraokeFeature\obj\Debug\KaraokeFeature.pdb
